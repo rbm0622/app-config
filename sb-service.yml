@@ -14,7 +14,7 @@ spring:
     hibernate: 
       ddl-auto: update
  
-greetingLanguage: English2 / Spring Config
+greetingLanguage: English RBM / Spring Config
 ---
 spring: 
   profiles: dev
